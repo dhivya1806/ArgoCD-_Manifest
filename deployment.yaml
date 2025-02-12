@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: benchapp
-        image: dhivya1806/demo-java-app:40
+        image: dhivya1806/demo-java-app:41
         ports:
         - containerPort: 3000
