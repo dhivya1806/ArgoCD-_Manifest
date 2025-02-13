@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: benchapp
-        image: dhivya1806/demo-java-app:73
+        image: dhivya1806/demo-java-app:74
         ports:
         - containerPort: 3000
         livenessProbe:
