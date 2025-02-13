@@ -12,5 +12,4 @@ spec:
     protocol: TCP
   selector:
     app: demo-app
-  externalIPs:
-    - 44.220.55.193
+
